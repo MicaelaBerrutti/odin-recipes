@@ -1,0 +1,76 @@
+.title.main-page{
+    font-size:350%;
+}
+
+.div-title{
+    width:100%;
+    height:10vh;
+}
+.title{
+    font-size: 270%;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration-line: underline;
+    text-decoration-color: indigo;
+ 
+    width:60%;
+    height:10vh;
+    text-align: center;
+    margin:auto;
+
+}
+
+.recipes-list{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    list-style: circle;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    margin:auto;
+}
+
+
+
+.div-recipes{
+    width:60%;
+    height:30vh;
+    margin:auto;
+    background-color: rgb(255, 204, 37);
+}
+
+.div-img{
+    width:60%;
+    height: 80vh;
+    margin:auto;
+}
+
+.img{
+    width:100%;
+    height: 100%;
+}
+
+.div-description{
+    width:80%;
+    margin:auto;
+}
+
+.semi-title{
+    font-size: 200%;
+    text-decoration-line: underline;
+    text-decoration-color: indigo;
+}
+
+.texto{
+    font-size:120%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.div-ingredientes{
+    width:80%;
+    margin:auto;
+    padding:3%;
+    background-color: rgba(195, 0, 255, 0.062);
+}
